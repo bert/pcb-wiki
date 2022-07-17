@@ -7,3 +7,5 @@
 [1.1 Getting started with PCB](1.1_getting_started_with_pcb.md)
 
 [2.0 PCB released files](2.0_released_files.md)
+
+[2.1 User Manuals](2.1_user_manuals.md)
