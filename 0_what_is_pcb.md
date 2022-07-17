@@ -1,3 +1,5 @@
+# What is PCB ?
+
 PCB is an interactive printed circuit board editor for the X11 window system with either a GTK interface (default) or a lesstif interface.
 
 PCB includes a rats nest feature, Blind and Buried vias, and Design Rule Checking.
