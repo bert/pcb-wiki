@@ -14,6 +14,8 @@
 
 [2.2 Tips & Tricks](2.2_tips_and_tricks.md)
 
+[2.2.1 Adding images into pcb](2.2.1_adding_images_into_pcb.md)
+
 [2.3 Routing Tips & Tricks](2.3_routing_tips_and_tricks.md)
 
 [3.0 How To Help](3.0_how_to_help.md)
