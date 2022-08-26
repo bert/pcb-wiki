@@ -8,6 +8,8 @@
 
 [2.0 PCB released files](2.0_released_files.md)
 
+[2.0.1 PCB in distributions](2.0.1_pcb_in_distributions.md)
+
 [2.1 User Manuals](2.1_user_manuals.md)
 
 [2.1.1 User Manual Start Doc Options](2.1.1_user_manual_start_doc_options.md)
