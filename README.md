@@ -20,6 +20,22 @@
 
 [2.3 Routing Tips & Tricks](2.3_routing_tips_and_tricks.md)
 
+[2.4 Beyond tracks and footprints](2.4_beyond_tracks_and_footprints.md)
+
+[2.5 Adding images into pcb layout with gEDA pcb](2.5_adding_images_into_pcb.md)
+
+[2.6 Auto Router](2.6_auto_router.md)
+
+[2.7 Gerber files, prints and other I/O issues](2.7_gerber_files_etc.md)
+
+[2.8 Exporting Other Formats: Raster and PS Files](2.8_exporting_other_formats.md)
+
+[2.9 Customization](2.9_customization.md)
+
+[2.10 PCB Footprint Guides](2.10_pcb_footprint_guides.md)
+
+[2.99 You didn't answer my question. What other resources exist for PCB information?](2.99_no_answer.md)
+
 [3.0 How To Help](3.0_how_to_help.md)
 
 [3.1 Reporting Bugs](3.1_reporting_bugs.md)
