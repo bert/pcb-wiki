@@ -20,7 +20,7 @@ PCB includes exporters for:
 
 - <b>PNG</b>: GIF, JPG and PNG graphic formats output.
 
-- <b>[Nelma](https://www.tablix.org/~avian/nelma/)</b>: Export output files for trace capacitance calculations.
+- <b>Nelma</b>: Export output files for trace capacitance calculations.
 
 - <b>[GSvit](http://gsvit.net/)</b>: Export output files for Finite Difference in Time Domain calculations (FDTD).
 
