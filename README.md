@@ -34,6 +34,8 @@
 
 [2.10 PCB Footprint Guides](2.10_pcb_footprint_guides.md)
 
+[2.98 Luciani.org PCB Footprint FAQ](2.98_Luciani_org_faq.md)
+
 [2.99 You didn't answer my question. What other resources exist for PCB information?](2.99_no_answer.md)
 
 [3.0 How To Help](3.0_how_to_help.md)
