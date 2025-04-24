@@ -44,5 +44,5 @@
 
 [3.2 Todo's](3.2_todos.md)
 
-[3.3 Supported languages for pcb](3.3_languages.md)
+[3.3 Supported languages for pcb](3.3_translations.md)
 
