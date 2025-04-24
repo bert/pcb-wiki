@@ -43,3 +43,6 @@
 [3.1 Reporting Bugs](3.1_reporting_bugs.md)
 
 [3.2 Todo's](3.2_todos.md)
+
+[3.3 Supported languages for pcb](3.3_languages.md)
+
