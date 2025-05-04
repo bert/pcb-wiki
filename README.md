@@ -47,3 +47,5 @@
 [3.3 Supported languages for pcb](3.3_translations.md)
 
 [5.1 Prefixes for PCB Reference Designators](5.1_refdes.md)
+
+[9.1 Footprint naming in pcb and gschem](9.1_footprint_naming.md)
